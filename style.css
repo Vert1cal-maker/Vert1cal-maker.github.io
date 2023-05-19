@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+}
+
+body{
+    color: #0a4344;
+    font-family: 'Noto Serif', serif;
+    background-color:#188b8c;
+    padding: 200px;
+}
+
+.main{
+    display: flex;
+    justify-content: center;
+    border-radius: 40px;
+    background-color:#fbca7e; 
+    padding: 10px;
+    box-shadow: 3px 2px 2px black;
+}
+
+.text{
+    padding: 60px;
+    width: 60%;
+}
+
+.icon-row{
+   float: left;
+}
+
+.icon{
+    width: 2%;
+    text-decoration: none;
+}
+
+.photo{
+    display: flex;
+    justify-content: center;
+    width: 23%;
+}
+.me{
+    width: 100%;
+}
