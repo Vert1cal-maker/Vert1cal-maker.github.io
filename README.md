@@ -14,7 +14,7 @@
     <section class="main">
         <div class="text">
             <h2>Oleksandr Verteletskyi</h2><br>
-            <p>29 years old, born in the city of Bobrovytsia, in the Chernihiv region,<br>
+            <p>129 years old, born in the city of Bobrovytsia, in the Chernihiv region,<br>
              have a higher education in economics, I work at a college as a computer systems engineer,<br>
              want to try myself in IT, so at the moment I am studying Node js developer in w++ <br>
              in my free time from studying and working, I like to do sports, read books and play board or computer games</p>
